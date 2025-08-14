@@ -28,7 +28,7 @@ parent.style.transition = '10s'
     container.style.transition = '10s'
     parent.style.marginLeft = '9000px'
     setTimeout(() => {
-       open('hazemsalem142-beep.io/cars/')
+       location.replace('hazemsalem142-beep.github.io/car/')
     },2000)
     },900)
     
